@@ -1,3 +1,6 @@
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://manakal.com/images/logo-header.png" width="400"></a></p>
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 
@@ -16,4 +19,6 @@ Run the following commands to setup the project:
 - php artisan serve
 
 Your good to go now!
+
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://manakal.com/images/logo-footer.png" width="400"></a></p>
 
